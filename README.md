@@ -2,6 +2,8 @@
 
 A dockerized Jupyter quant research environment.
 
+We are moving!!! This repository is now maintained here -> https://github.com/quantbelt/jupyter-quant/ 
+
 ## Highlights
 
 - Includes tools for quant analysis, statsmodels, pymc, arch, py_vollib,
